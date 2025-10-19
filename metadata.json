@@ -1,0 +1,5 @@
+{
+  "name": "CommonsSense",
+  "description": "An application that fetches bills from the UK Parliament's RSS feed, analyzes them using AI, and provides a summary and impact rating across four key dimensions: Growth, Public Services & Wellbeing, Governance Quality, and Environment.",
+  "requestFramePermissions": []
+}
